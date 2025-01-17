@@ -1896,6 +1896,8 @@
   <apn carrier="Postpaid Internet" mcc="364" mnc="390" apn="internet1.btcbahamas.com" user="" password="" proxy="" port="" />
   <apn carrier="Postpaid MMS" mcc="364" mnc="390" apn="ppmms1.btcbahamas.com" user="" password="" mmsproxy="172.16.220.44" mmsport="8080" />
   <apn carrier="BATELCO BS" mcc="364" mnc="390" apn="internet.btcbahamas.com" proxy="" port="" user="" password="" mmsc="" type="default,supl" />
+  <apn carrier="Aliv" carrier_id="2130" mcc="364" mnc="49" apn="pda.newcomobile.com" mmsc="http://mms.bealiv.com" type="default,ia,supl,mms,xcap" protocol="IPV4V6" roaming_protocol="IPV4V6" />
+  <apn carrier="Aliv IMS" carrier_id="2130" mcc="364" mnc="49" apn="ims" type="ims" protocol="IPV4V6" roaming_protocol="IPV4V6" />
   <apn carrier="LIME Prepaid Internet" mcc="365" mnc="840" apn="ppinternet" mmsc="" user="" password="" proxy="" port="8799" type="default,supl" />
   <apn carrier="LIME Postpaid Internet" mcc="365" mnc="840" apn="internet" mmsc="" user="" password="" proxy="" port="8799" type="default,supl" />
   <apn carrier="LIME Prepaid MMS" mcc="365" mnc="840" apn="ppmms" mmsc="http://mmsc" user="" password="" proxy="10.20.5.34" port="8799" type="mms" />
